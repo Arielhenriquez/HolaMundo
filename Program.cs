@@ -5,7 +5,7 @@ namespace Ola
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("saludo");
+            Console.WriteLine("saludo 2");
         }
     }
 }
